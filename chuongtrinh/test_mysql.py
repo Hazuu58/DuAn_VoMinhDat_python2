@@ -1,2 +1,0 @@
-from ketnoidb.ketnoi_mysql import create_connection
-create_connection()
